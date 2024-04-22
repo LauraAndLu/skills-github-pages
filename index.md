@@ -1,4 +1,4 @@
 ---
-title: Welcome to Laura's Profile 
+Title: Welcome to Laura's Profile 
 ---
 
